@@ -1,0 +1,24 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.pyc",
+				"*.pyo",
+				".project",
+				"*.map",
+				"*.js",
+				"*.spec.ts"
+			],
+			"folder_exclude_patterns":
+			[
+				".svn",
+				"._d",
+				".metadata",
+				".settings"
+			],
+			"path": "."
+		}
+	]
+}

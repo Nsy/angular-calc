@@ -1,0 +1,528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"_",
+				"_chanel_name"
+			],
+			[
+				"setB",
+				"setBrowserIcon"
+			],
+			[
+				"setBrow",
+				"setBrowserIconOnline"
+			],
+			[
+				"ba",
+				"badge_text"
+			],
+			[
+				"channel",
+				"channel_name"
+			],
+			[
+				"text",
+				"text-decoration-style"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"isOn",
+				"isOnDiv"
+			],
+			[
+				"im",
+				"imagePreview"
+			],
+			[
+				"strea",
+				"streamData"
+			],
+			[
+				"ch",
+				"channel"
+			],
+			[
+				"youtub",
+				"youtubeProfile"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"op",
+				"currentOperator\tproperty"
+			],
+			[
+				"nu",
+				"number_input_1\tproperty"
+			],
+			[
+				"style",
+				"styles\tproperty"
+			],
+			[
+				"num",
+				"number_input_2\tproperty"
+			],
+			[
+				"res",
+				"result\tproperty"
+			],
+			[
+				"re",
+				"result\tproperty"
+			],
+			[
+				"templa",
+				"templateUrl\tproperty"
+			],
+			[
+				"cu",
+				"currentOperator\tproperty"
+			],
+			[
+				"cur",
+				"currentOperator\tproperty"
+			],
+			[
+				"curr",
+				"currentNumber\tproperty"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"sho",
+				"showConstant"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"he",
+				"heroService\tproperty"
+			],
+			[
+				"string",
+				"string\tkeyword"
+			],
+			[
+				"hero",
+				"hero\tproperty"
+			],
+			[
+				"impo",
+				"imports\tproperty"
+			],
+			[
+				"getH",
+				"getHeroes\tmethod"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"Hero",
+				"HeroDetailComponent\talias"
+			],
+			[
+				"get",
+				"getHeroesSlowly\tmethod"
+			],
+			[
+				"her",
+				"heroService\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"showe",
+				"TypeScript: Show Error List"
+			],
+			[
+				"typescript: sho",
+				"TypeScript: Show Error List"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Noelie/angular-latest/tomorow",
+		"/C/Users/Noelie/angular-latest/tomorow/e2e",
+		"/C/Users/Noelie/angular-latest/tomorow/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/angular-tour-of-heroes.sublime-project",
+		"/C/Users/Noelie/angular-latest/quickstart/tomorow.sublime-project",
+		"/C/Users/Noelie/Desktop/Valryan/cdgopemjialdehgimnebjdjhchkehbkl/popup/builder.js",
+		"/C/Users/Noelie/Desktop/Valryan/cdgopemjialdehgimnebjdjhchkehbkl/popup/popup.js",
+		"/C/Users/Noelie/Desktop/Valryan/cdgopemjialdehgimnebjdjhchkehbkl/popup/popup.html",
+		"/C/Users/Noelie/Desktop/Valryan/cdgopemjialdehgimnebjdjhchkehbkl/src/background.js",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/src/background.js",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/manifest.json",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/css/style.css",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/popup.js",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/src/popup.html",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/src/popup.js",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/popup.html",
+		"/C/Users/Noelie/Desktop/Valryan/set_page_color/popup.html",
+		"/C/Users/Noelie/Desktop/Valryan/set_page_color/popup.js",
+		"/C/Users/Noelie/Desktop/Valryan/set_page_color/manifest.json",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/index.html",
+		"/C/Users/Noelie/angular-latest/quick - Copy/quickstart/src/app/app.component.ts",
+		"/C/Users/Noelie/Desktop/heroform.ts",
+		"/C/Users/Noelie/Desktop/heroform",
+		"/C/Users/Noelie/Desktop/Valryan/valryan-live/manifest.json",
+		"/C/Users/Noelie/Desktop/Valryan/valryan-live/background.js",
+		"/C/Users/Noelie/Desktop/Valryan/rich-notifications/app.js",
+		"/C/Users/Noelie/angular-latest/node/Yt/main.js",
+		"/C/Users/Noelie/Desktop/Valryan/Extention Twitch/manifest.json",
+		"/C/Users/Noelie/Desktop/Valryan/Extention Twitch/popup.html",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/_locales/fr/messages.json",
+		"/C/Users/Noelie/Desktop/Valryan/Valryan Twitch/_metadata/verified_contents.json",
+		"/C/Users/Noelie/Desktop/HTTP Status code2.apkg",
+		"/C/Users/Noelie/angular-latest/node/Yt/api_save.json",
+		"/C/Users/Noelie/angular-latest/node/hello.js",
+		"/C/Users/Noelie/angular-latest/node/main.js",
+		"/C/Users/Noelie/angular-latest/quick - Copy/quickstart/src/app/app.component.html",
+		"/C/Users/Noelie/angular-latest/quick - Copy/quickstart/src/app/app.component.css",
+		"/C/Users/Noelie/WebLearn/hello.js",
+		"/C/Users/Noelie/angular-latest/quick/quickstart/src/app/app.module.ts",
+		"/C/Users/Noelie/angular-latest/quick/quickstart/src/app/app.component.ts",
+		"/C/Users/Noelie/angular-latest/quick/quickstart/src/app/app.component.html",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/dashboard.component.ts",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/app.module.ts",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/app.component.ts",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/app.component.spec.ts",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/app.component.js",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/app.component.css",
+		"/C/Users/Noelie/angular-latest/calc/calc.js",
+		"/C/Users/Noelie/angular-latest/calc/index.html",
+		"/C/Users/Noelie/Desktop/Valryan/Extention 1.0/background.js",
+		"/C/Users/Noelie/angular-latest/node/hello_http.js",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/dashboard.component.html",
+		"/C/Users/Noelie/angular-latest/hello_http.js",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/heroes.component.ts",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/package.json",
+		"/C/Users/Noelie/angular-latest/New folder/index.html",
+		"/C/Users/Noelie/angular-latest/New folder/js.js",
+		"/D/Programs/wamp64/bin/apache/apache2.4.23/bin/php.ini",
+		"/D/Programs/wamp64/www/phh/index.php",
+		"/D/Programs/wamp64/www/phh/test.php",
+		"/C/Users/Noelie/Desktop/extention - Copy/monscript.js",
+		"/D/Programs/wamp64/www/phh/welcome.php",
+		"/C/Users/Noelie/AppData/Local/Temp/symfony.phar",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/app-routing.module.ts",
+		"/C/Users/Noelie/angular-latest/before_proj",
+		"/C/Users/Noelie/Desktop/Extention 1.0/background.js",
+		"/D/Programs/wamp64/www/gallery-start/main.js",
+		"/D/Programs/wamp64/www/gallery-start/index.html",
+		"/C/Users/Noelie/AppData/Roaming/npm/node_modules/javascripting/problems/objects/problem.md",
+		"/C/Users/Noelie/AppData/Roaming/npm/node_modules/javascripting/problems/numbers/problem.md",
+		"/C/Users/Noelie/AppData/Roaming/npm/node_modules/javascripting/problems/numbers/solution.md",
+		"/C/Users/Noelie/AppData/Roaming/npm/node_modules/javascripting/problems/numbers/index.js",
+		"/C/Users/Noelie/AppData/Roaming/npm/node_modules/javascripting/index.js",
+		"/C/Users/Noelie/AppData/Roaming/npm/node_modules/javascripting/menu.json",
+		"/C/Users/Noelie/AppData/Roaming/npm/javascripting.cmd",
+		"/C/Users/Noelie/AppData/Roaming/npm/javascripting",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/heroes.component.css",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/mock-heroes.js",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/heroes.component.html",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/hero.service.ts",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/in-memory-data.service.ts",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/hero-detail.component.html",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/hero-detail.component.ts",
+		"/C/Users/Noelie/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/hero-detail.component.js",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/styles.css",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/hero-detail.component.css",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/dashboard.component.css",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/mock-heroes.ts",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/index.html",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/.sublime-project",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/main.ts",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/hero.ts",
+		"/C/Users/Noelie/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Noelie/angular-latest/angular-tour-of-heroes/src/app/css.css",
+		"/C/Users/Noelie/angular-latest/quickstart/src/app/app.component.ts",
+		"/C/Users/Noelie/angular-latest/quickstart/src/main.ts",
+		"/C/Users/Noelie/angular-latest/quickstart/src/app/app.component.html",
+		"/C/Users/Noelie/angular-latest/quickstart/src/app/hero.ts",
+		"/C/Users/Noelie/angular-latest/quickstart/src/app/app.component2.js",
+		"/C/Users/Noelie/angular-latest/quickstart/README.md",
+		"/C/Users/Noelie/angular-latest/quickstart/karma.conf.js",
+		"/C/Users/Noelie/angular-latest/quickstart/src/app/app.module.ts",
+		"/C/Users/Noelie/angular2-fundamentals/src/app/app.component.html",
+		"/C/Users/Noelie/.bash_profile",
+		"/C/Users/Noelie/angular2-fundamentals/src/app/simple-form/simple-form.component.ts",
+		"/C/Users/Noelie/.bashrc",
+		"/C/Users/Noelie/angular2-fundamentals/src/app/app.component.ts",
+		"/C/Users/Noelie/angular-latest/quickstart/e2e/app.e2e-spec.ts",
+		"/C/Users/Noelie/angular-latest/quickstart/non-essential-files.txt",
+		"/C/Users/Noelie/WebLearn/SG1/app/systemjs.config.js",
+		"/C/Users/Noelie/WebLearn/SG1/app/main.ts",
+		"/C/Users/Noelie/angular2-fundamentals/src/app/app.component.css",
+		"/C/Users/Noelie/WebLearn/SG1/app/app.module.ts",
+		"/C/Users/Noelie/WebLearn/SG1/app/index.html",
+		"/C/Users/Noelie/WebLearn/SG1/tsconfig.json",
+		"/C/Users/Noelie/WebLearn/SG1/app/app.sgc.ts",
+		"/C/Users/Noelie/WebLearn/SG1/node_modules/@angular/platform-browser/src/dom/dom_renderer.d.ts",
+		"/C/Users/Noelie/WebLearn/SG1/app/test.ts",
+		"/C/Users/Noelie/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Noelie/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Noelie/AppData/Roaming/Sublime Text 3/Packages/Typescript/Preferences.sublime-settings",
+		"/C/Users/Noelie/AppData/Roaming/Sublime Text 3/Packages/Typescript/TypeScript.sublime-settings",
+		"/C/Users/Noelie/AppData/Roaming/Sublime Text 3/Packages/Typescript/TypeScriptReact.sublime-settings",
+		"/C/Users/Noelie/AppData/Local/Temp/fz3temp-1/news.php",
+		"/C/Users/Noelie/AppData/Local/Temp/fz3temp-1/news-fr.php",
+		"/D/eel-mai-2017/news-fr.php",
+		"/C/Users/Noelie/AppData/Local/Temp/fz3temp-1/presentation-fr.php",
+		"/C/Users/Noelie/AppData/Local/Temp/fz3temp-1/presentation.php",
+		"/D/Programs/wamp64/www/api_val/wp-content/plugins/youtube-api-proxy/youtube-api-proxy.css",
+		"/D/Programs/wamp64/www/api_val/wp-content/plugins/youtube-api-proxy/youtube-api-proxy.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Noelie\\Desktop\\Valryan\\cdgopemjialdehgimnebjdjhchkehbkl",
+			"C:\\Users\\Noelie\\angular-latest\\angular-tour-of-heroes\\src\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"TWITCH_PROFILE",
+			"7",
+			"console",
+			"hover",
+			"header",
+			"write_d",
+			"console.lo",
+			"val",
+			"trumpsc",
+			"NOTIFICATION_TITLE",
+			"streamData",
+			"header",
+			"StreamerExtension",
+			"icononline",
+			"parametres",
+			"EXTEN",
+			"lastStatus",
+			"last",
+			"last_giv",
+			"jingle",
+			"write_d",
+			"debug",
+			"hover",
+			"rs",
+			"re",
+			"online",
+			"live-status",
+			"margin-b",
+			"createE",
+			"$",
+			"buildStreamerPopup",
+			"$(",
+			"EXTE",
+			"preventDefault",
+			"live",
+			"buffer",
+			"node",
+			"cacer",
+			"cac",
+			"car",
+			"curl",
+			"mock",
+			"input",
+			"types",
+			"git",
+			"CheckIsOnLive",
+			"5000"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

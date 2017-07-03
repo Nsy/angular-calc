@@ -1,0 +1,47 @@
+<div id="calculator">
+	<p><strong>{{ title }}</strong></p>
+	<div id="numbers">
+		<button class="btn btn-default" (click)="addDigit('7')">7</button>
+		<button class="btn btn-default" (click)="addDigit('8')">8</button>
+		<button class="btn btn-default" (click)="addDigit('9')">9</button>
+		<button class="btn btn-info operator" (click)="addOperator('+')">+</button><br />
+		<button class="btn btn-default" (click)="addDigit('4')">4</button>
+		<button class="btn btn-default" (click)="addDigit('5')">5</button>
+		<button class="btn btn-default" (click)="addDigit('6')">6</button>
+		<button class="btn btn-info operator" (click)="addOperator('-')">-</button><br />
+		<button class="btn btn-default" (click)="addDigit('1')">1</button>
+		<button class="btn btn-default" (click)="addDigit('2')">2</button>
+		<button class="btn btn-default" (click)="addDigit('3')">3</button>
+		<button class="btn btn-info operator" (click)="addOperator('*')">*</button><br />
+		<button class="btn btn-default" (click)="addDigit('.')">,</button>
+		<button class="btn btn-default" (click)="addDigit('0')">0</button>
+		<button class="btn btn-warning" (click)="clearOne()">c</button>
+		<button class="btn btn-info operator" (click)="addOperator('/')">/</button><br />
+		<button class="btn btn-success equals" (click)="equals()">=</button><button class="btn btn-danger clear" (click)="equals()">clr</button>
+	</div>
+	<!--<div id="debug">
+		previous number: {{ previousNumber }}<br/>
+		current number: {{ currentNumber }}<br/>
+		current operator: {{ currentOperator }}<br/>
+		result: {{ result }}<br/><br /><br/>
+	</div>-->
+	<strong>Calculating:</strong>
+
+	{{ previousNumber }} {{ currentOperator }} {{ currentNumber }}
+	<br /><br />
+
+	<div id="result">
+	<strong>Result:</strong>
+		<p *ngIf="getResult() != 'undefined' && getResult() != null">
+			{{ getResult().number1 }} {{ getResult().operator }} {{ getResult().number2 }} = {{ getResult().result }}
+		</p>
+	</div>
+	<div id="history">
+	<strong>History:</strong>
+		<ul>
+			<li *ngFor="let item of history">
+				{{ item.number1 }} {{ item.operator }} {{ item.number2 }} = {{ item.result }}
+			</li>
+		</ul>
+	</div>
+</div>
